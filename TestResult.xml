@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="0" testcasecount="1" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="1" result="Passed" portable-engine-version="3.3.0.0" start-time="2017-04-10 08:32:08Z" end-time="2017-04-10 08:32:08Z" duration="0.177707">
+  <test-run id="0" testcasecount="1" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="1" result="Passed" portable-engine-version="3.3.0.0" start-time="2017-04-10 08:32:08Z" end-time="2017-04-10 08:32:08Z" duration="0.088985">
+    <test-suite type="Assembly" id="1002" name="webapi.dll" fullname="/Users/rgparkins/dev/Interviews/webapi/bin/Debug/netcoreapp1.1/webapi.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-04-10 08:32:08Z" end-time="2017-04-10 08:32:08Z" duration="0.063519" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+      <environment framework-version="3.6.0.0" clr-version=".NET Core 4.6.24628.01" os-version="Darwin 15.5.0 Darwin Kernel Version 15.5.0: Tue Apr 19 18:36:36 PDT 2016; root:xnu-3248.50.21~8/RELEASE_X86_64" cwd="/Users/rgparkins/dev/Interviews/webapi" machine-name="Richards-MacBook-Pro-5942" culture="en-GB" uiculture="en-GB" os-architecture="X64" />
+      <settings>
+        <setting name="WorkDirectory" value="/Users/rgparkins/dev/Interviews/webapi" />
+      </settings>
+      <test-suite type="TestSuite" id="1003" name="Parkwell" fullname="Parkwell" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-04-10 08:32:08Z" end-time="2017-04-10 08:32:08Z" duration="0.055919" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+        <test-suite type="TestSuite" id="1004" name="cms" fullname="Parkwell.cms" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-04-10 08:32:08Z" end-time="2017-04-10 08:32:08Z" duration="0.055695" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+          <test-suite type="TestSuite" id="1005" name="tests" fullname="Parkwell.cms.tests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-04-10 08:32:08Z" end-time="2017-04-10 08:32:08Z" duration="0.055549" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+            <test-suite type="TestFixture" id="1000" name="BlankTest" fullname="Parkwell.cms.tests.BlankTest" classname="Parkwell.cms.tests.BlankTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-04-10 08:32:08Z" end-time="2017-04-10 08:32:08Z" duration="0.052334" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+              <test-case id="1001" name="Test" fullname="Parkwell.cms.tests.BlankTest.Test" methodname="Test" classname="Parkwell.cms.tests.BlankTest" runstate="Runnable" seed="1268923534" result="Passed" start-time="2017-04-10 08:32:08Z" end-time="2017-04-10 08:32:08Z" duration="0.016776" asserts="1" />
+            </test-suite>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-run>
+</test-run>
